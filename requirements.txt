@@ -1,3 +1,6 @@
-streamlit
 openai
-pandas
+pypdf
+streamlit
+pydantic
+python-dotenv
+fpdf
